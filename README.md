@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/63905637/145709095-4f7e73cb-e52e-44fa-99a5-58a96ac4ff0c.gif)
 <h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">Developer</h3>
-<h3 align="center"> 🌱 I’m currently learning Full stack & Java Developer ...</h3>
+<h3 align="center"> Full stack & Java Developer </h3>
+<h3 align="center"> 🌱 I’m currently learning Spring Boot And Android Developement ...</h3>
 <h3 align="center"> I’m looking to collaborate on ...</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
